@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @AriesEDGE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AriesEDGE/AriesEDGE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PUBG Mobile shell TOOLS Made by Aries
+Telegram： @awwwwwwesome
+shell脚本且开源
+使用请说明出处 谢谢
